@@ -25,7 +25,7 @@
         <div class="container" >
             <div class="navbar-header my-1"> <!-- Header navigation-->
                 <a href="#" class="pull-left">
-                    <img src="images/hit1.jpg" alt="HIT Haldia" width="70px" height="70px"/>
+                    <img src="images/logo.png" alt="HIT Haldia" width="70px" height="70px"/>
                 </a>
                     <a class="navbar-brand" href="#"><h1>Tender Management System</h1></a> <!-- Library Name fixed-->
                     <a href="#"><p> A MIT Project </p></a>
